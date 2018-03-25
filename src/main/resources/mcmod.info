@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mite2shulker",
+  "name": "Mite2Shulker",
+  "description": "Lets enermites bury into purpur blocks",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lemons"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
